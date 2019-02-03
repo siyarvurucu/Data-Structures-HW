@@ -1,4 +1,4 @@
-HW1 /
+
 # Data-Structures-HW1
 
 Implement a user interface and the corresponding database of students for a single
